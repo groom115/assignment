@@ -8,6 +8,7 @@ export default function Page() {
         alignItems: "center",
         justifyContent: "center",
         height: "100%",
+        backgroundColor: "black",
       }}
     >
       <SignUp />
